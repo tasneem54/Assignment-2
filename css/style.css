@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Full-website{
+    width: 100%;
+    min-height: 400px;
+    background-color: darkgrey;
+}
+.header{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100px;
+}
+.logo{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.menu{
+    background-color: azure;
+    height: 100px;
+    width: 70%;
+    float: right;
+}
+.slider{
+    background-color: blueviolet;
+    height:400px;
+    width: 100%;
+}
+.main-content{
+    background-color: pink;
+    height: 650px;
+    width: 100%;
+}
+.side-bar{
+    background-color: aquamarine;
+    height: 650px;
+    width: 35%;
+    float: left;
+}
+.content{
+    background-color: dodgerblue;
+    height: 650px;
+    width: 65%;
+    float: right;
+}
+footer{
+    background-color: darkseagreen;
+    height: 200px;
+    width: 100%;
+}
